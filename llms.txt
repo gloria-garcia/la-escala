@@ -1,0 +1,21 @@
+# La Escala · Workshop & Galería de Arte
+
+> Galería de arte emergente porteño, talleres y café en una casa centenaria del Barrio Puerto de Valparaíso (Chile). Fundada en 2017 y dirigida por el artista Jaime Blaset. Accesos por Cochrane 553 (galería) y Blanco 568 (café), conectados por dentro. Lunes a sábado de 11:00 a 18:00, entrada liberada. Teléfono y WhatsApp +56 9 9870 3603; laescalagaleriadearte@gmail.com.
+
+Nota: sitio de proyecto académico (Diseño desde el Código, PUCV). Lo marcado "por confirmar" no está verificado.
+
+## Páginas principales
+
+- [Inicio](https://gloria-garcia.github.io/la-escala/): qué es La Escala, lo que hay en sala, agenda y accesos.
+- [Exposiciones](https://gloria-garcia.github.io/la-escala/exposiciones.html): en sala ahora, próximamente y memoria de la casa.
+- [Artistas](https://gloria-garcia.github.io/la-escala/artistas.html): 14 artistas de la galería con biografía.
+- [Agenda](https://gloria-garcia.github.io/la-escala/agenda.html): calendario de talleres, música y lanzamientos.
+- [Talleres](https://gloria-garcia.github.io/la-escala/talleres.html): acuarela, óleo, cerámica y dibujo con valores y talleristas.
+- [Café La Escala](https://gloria-garcia.github.io/la-escala/cafe.html): café con entrada por Blanco 568.
+- [La Casa](https://gloria-garcia.github.io/la-escala/la-casa.html): historia y plano de los espacios.
+- [Visítanos](https://gloria-garcia.github.io/la-escala/visitanos.html): dirección, cómo llegar, accesibilidad y contacto.
+
+## Externo
+
+- [Tienda en línea](https://www.laescala.cl): venta de obras y cupos de talleres.
+- [Instagram](https://www.instagram.com/laescalagaleria/): @laescalagaleria.

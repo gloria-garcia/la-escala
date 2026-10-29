@@ -1,0 +1,12 @@
+# La Escala · robots.txt
+User-agent: *
+Allow: /
+
+# Rastreadores de IA permitidos explícitamente (Clase 9)
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://gloria-garcia.github.io/la-escala/sitemap.xml
